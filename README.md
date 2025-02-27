@@ -2,7 +2,7 @@
 
 A simple yet powerful web application for organizing football teams with balanced player distribution based on skill ratings.
 
-![FairPlay Football Team Manager](https://github.com/imluth/FairPlay-football-team-manager/assets/placeholder-screenshot.png)
+![FairPlay Football Team Manager](./assets/placeholder-screenshot.png)
 
 ## Features
 
