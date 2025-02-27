@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'FairPlay Football Team Manager',
+  description: 'Manage your football team with ease',
+  generator: 'FairPlay',
 }
 
 export default function RootLayout({
